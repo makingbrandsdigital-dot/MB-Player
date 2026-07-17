@@ -1,0 +1,6 @@
+{
+  "name": "GraceAudio",
+  "description": "A YouTube-style background audio player designed for music with custom playlists, offline downloads, seamless transitions, and a low-battery screen dimming mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
